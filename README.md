@@ -1,8 +1,8 @@
 ```diff
- ! Hand
-                 ** © Sankalp Shekhar: ** livefeed.py
+! Hand
+© Sankalp Shekhar: ** livefeed.py
 
- + Detector
++ Detector
                  ** © Anmol Sinha: ** Gray_Capture_Convertor.py ; Webcam_Tracker.py
 ```
 _____________________________________________________________________________________
