@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 ! © Anmol Sinha: 
 #Gray_Capture_Convertor.py
-#Webcam_Tracker.py
+#Webcam_Tracking.py
 ```
 _____________________________________________________________________________________________________________________
 ![alt text](https://i.stack.imgur.com/f2RiP.gif)  ![alt text](https://ze-us.xyz/images/neuralnet.gif)
