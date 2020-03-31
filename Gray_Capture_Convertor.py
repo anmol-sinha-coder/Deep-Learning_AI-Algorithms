@@ -3,7 +3,6 @@
 Created on Wed Mar 18 12:29:45 2020
 
 REQUIREMENTS:-
-Hey Sankalp, for now I have not enabled any form of Hand symbol recognition.
 You need to press 's' (on keyboard) for conversion and capture of 28x28 image conversion.
 One would require DLIB for image recognition, on which I am working.
 Here is the basic code or skeleton of our project for detection purposes only. 
