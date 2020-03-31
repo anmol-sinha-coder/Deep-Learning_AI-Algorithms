@@ -1,4 +1,6 @@
-# Hand ###### © Sankalp Shekhar: livefeed.py
+# Hand @settings {
+  font-size: 100;
+}© Sankalp Shekhar: livefeed.py
 
  # Detector ###### © Anmol Sinha: Gray_Capture_Convertor.py ; Webcam_Tracker.py
 _____________________________________________________________________________________
