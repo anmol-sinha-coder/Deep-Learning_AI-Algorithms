@@ -1,11 +1,11 @@
 
-# Hand
+# Hand Detector
 ```diff
-! © Sankalp Shekhar: livefeed.py
-```
-# Detector
-```diff
-+ © Anmol Sinha: Gray_Capture_Convertor.py ; Webcam_Tracker.py
++ © Sankalp Shekhar:
+-livefeed.py
+_____________________________________________________________________________________
+! © Anmol Sinha: 
+#Gray_Capture_Convertor.py ; Webcam_Tracker.py
 ```
 _____________________________________________________________________________________
 ![alt text](https://i.stack.imgur.com/f2RiP.gif)  ![alt text](https://ze-us.xyz/images/neuralnet.gif)
