@@ -1,8 +1,9 @@
-Hand_Detectors:-
-_______________________________________________________________________________
- © Sankalp Shekhar:
+# Hand 
+ © Sankalp Shekhar: 
  livefeed.py
-  © Anmol Sinha:
+ _______________________________________________________________________________
+# Detector
+© Anmol Sinha: 
   Gray_Capture_Convertor.py ; Webcam_Tracker.py
 
 ![alt text](https://i.stack.imgur.com/f2RiP.gif)  ![alt text](https://ze-us.xyz/images/neuralnet.gif)
