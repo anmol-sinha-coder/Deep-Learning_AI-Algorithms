@@ -10,7 +10,7 @@ import numpy as np
 import time
 
 #Open Camera object
-cam = cv2.Videocamture(0)
+cam = cv2.Videocapture(0)
 
 #Decrease frame size
 cam.set(cv2.cam_PROP_FRAME_WIDTH, 1000)
