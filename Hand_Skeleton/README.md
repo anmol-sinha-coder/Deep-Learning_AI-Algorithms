@@ -1,1 +1,1 @@
-Here we a precreated Caffe (a DL python library) model weights file is used here. It is a pretrained model. I just got the code and made small changes to code to make it run!
+## Here we a precreated Caffe (a DL python library) model weights file is used here. It is a pretrained model. I just got the code and made small changes to code to make it run! The weights_file must be downloaded from given url:- [](http://posefs1.perception.cs.cmu.edu/OpenPose/models/hand/pose_iter_102000.caffemodel)
