@@ -28,7 +28,7 @@ def Angle(v1,v2):
 def FindDistance(A,B): 
  return np.sqrt(np.power((A[0][0]-B[0][0]),2) + np.power((A[0][1]-B[0][1]),2)) 
  
-'''
+
 # Creating a window for HSV track bars
 cv2.namedWindow('HSV_TrackBar')
 # Starting with 100's to prevent error while masking
@@ -40,7 +40,7 @@ def nothing(x):
 cv2.createTrackbar('h', 'HSV_TrackBar',0,179,nothing)
 cv2.createTrackbar('s', 'HSV_TrackBar',0,255,nothing)
 cv2.createTrackbar('v', 'HSV_TrackBar',0,255,nothing)
-'''
+
 
 # Real Code_Starts_Here
 while(1):
@@ -185,7 +185,7 @@ while(1):
     #Print execution time
     #print time.time()-start_time
     
-    #close the output video by pressing 'ESC'
+    #close the output video by pressing 'ESC' or 'SPACE' or 
     k = cv2.waitKey(5) & 0xFF
     if k == 27 or k==32 or k==13 or k==127:
         break
