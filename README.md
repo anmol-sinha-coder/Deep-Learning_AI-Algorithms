@@ -7,6 +7,8 @@
 ! © Anmol Sinha: 
 #Gray_Capture_Convertor.py
 #Webcam_Tracking.py
+#hand_ellipsis.py
+#compare.py
 ```
 _____________________________________________________________________________________________________________________
 ![alt text](https://i.stack.imgur.com/f2RiP.gif)  ![alt text](https://ze-us.xyz/images/neuralnet.gif)
