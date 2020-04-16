@@ -1,2 +1,2 @@
 ## Here we a precreated Caffe (a DL python library) model weights file is used here. It is a pretrained model. I just got the code and made small changes to code to make it run! The weights_file must be downloaded from given url:- [Caffe_model__download_URL](http://posefs1.perception.cs.cmu.edu/OpenPose/models/hand/pose_iter_102000.caffemodel)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/8/8f/FullColourGIF.gif)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/8/8f/FullColourGIF.gif)<.element height="30%" width="30%">
