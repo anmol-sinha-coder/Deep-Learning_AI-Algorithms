@@ -1,3 +1,1 @@
-https://git-lfs.github.com. filter=lfs diff=lfs merge=lfs -text
-[[:space:]]pose_iter_102000.caffemodel filter=lfs diff=lfs merge=lfs -text
 pose_iter_102000.caffemodel filter=lfs diff=lfs merge=lfs -text
