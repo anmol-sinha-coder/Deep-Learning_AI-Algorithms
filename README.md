@@ -1,15 +1,8 @@
 
 # Hand Detector
 ```diff
-+ © Sankalp Shekhar:
-#livefeed.py
----------------------------------------------------------------------------------------------------------------------
-! © Anmol Sinha: 
-#Gray_Capture_Convertor.py
-#Webcam_Tracking.py
-#hand_ellipsis.py
-#compare.py
-#Webcam_Tracking.py
+! © Anmol Sinha : 
++ 1805553@kiit.ac.in | B.Tech, Computer Science Engineering (CSE)
 ```
 _____________________________________________________________________________________________________________________
 ![alt text](https://miro.medium.com/max/3840/1*oB3S5yHHhvougJkPXuc8og.gif)
